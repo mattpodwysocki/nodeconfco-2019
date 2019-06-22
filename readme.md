@@ -9,6 +9,12 @@ This is the presentation of ["Our Asynchronous Past, Present and Future"](nodeco
 - [ES 2015 Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
+### Node.js
+
+- [`utils.promisify`](https://nodejs.org/dist/latest-v12.x/docs/api/util.html#util_util_promisify_original)
+- [fs Promise APIs](https://nodejs.org/dist/latest-v12.x/docs/api/fs.html#fs_fs_promises_api)
+- [`ReadableStream[Symbol.asyncIterator`]](https://nodejs.org/dist/latest-v12.x/docs/api/stream.html#stream_readable_symbol_asynciterator)
+
 ### Observables, AsyncIterables and Emitters
 
 - [ReactiveX](http://reactivex.io/)
